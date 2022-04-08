@@ -4,4 +4,4 @@ This repository contains the results after evaluating a pre-trained architecture
 
 ## Evauation
 
-Download the Cornell grasp dataset
+Download the Cornell grasp dataset:  [Cornell grasp dataset](https://www.kaggle.com/datasets/oneoneliu/cornell-grasp)
