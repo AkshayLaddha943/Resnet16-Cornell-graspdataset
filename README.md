@@ -4,7 +4,7 @@ This repository contains the results after evaluating a pre-trained architecture
 
 ## Pre-requirements
 
-For running each sample code:
+The evaluation requires the following libraries to be installed
 
 - [Python 3.6.x - Python 3.8.x](https://www.python.org/)
  
