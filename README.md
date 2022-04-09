@@ -21,8 +21,8 @@ The evaluation requires the following libraries to be installed
 - [opencv-python](https://opencv.org/) 
 
 
-## Evauation
+## Evaluation
 
-Download the Cornell grasp dataset:  [Cornell grasp dataset](https://www.kaggle.com/datasets/oneoneliu/cornell-grasp)
+* Download the Cornell grasp dataset:  [Cornell grasp dataset](https://www.kaggle.com/datasets/oneoneliu/cornell-grasp)
 
-Pre-trained model for the evaluation can be downloaded from here: [Resnet](https://www.dropbox.com/s/ldapcpanzqdu7tc/models.zip?dl=0)
+* Pre-trained model for the evaluation can be downloaded from here: [Resnet](https://www.dropbox.com/s/ldapcpanzqdu7tc/models.zip?dl=0)
